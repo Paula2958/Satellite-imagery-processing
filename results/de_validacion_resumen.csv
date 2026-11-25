@@ -1,0 +1,2 @@
+Semilla,CosteMuestra,CosteTotal,Tiempo,PixelesValidos,PixelesExcluidos,GruposVacios,CompactacionGlobal,SeparacionMinima,SeparacionMedia,SeparacionMaxima,DaviesBouldin,ReduccionCoste,ConvergenciaMonotona
+2,0.684442217581586,0.689841142771328,0.7289279,26837,102705,0,0.689841142771328,2.54988313974997,3.58263628099981,5.27564258083868,0.65234288663895,61.8436673495581,1
